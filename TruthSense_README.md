@@ -9,6 +9,7 @@ TruthSense is engineered as a robust, agentic AI platform designed to mitigate t
 
 II. System Architecture & Core Innovation
 Our core innovation lies in the three-stage Agentic Workflow and the use of Structured JSON Output enforced by the Gemini API.
+
 A. Core Agentic Workflow
 Stage
 Agent Role
