@@ -2,9 +2,11 @@ TruthSense: Agentic AI System for Misinformation Detection
 A High-Integrity Fact-Checking Paradigm
 Developed for MumbaiHacks 2025
 
-Team VeritasAI – Kunal Parmar: Lead Developer, API integration and database & Nisha Sarvaiya: Backend Engineer, Agent workflow and testing
+Team VeritasAI – Kunal Parmar: Lead Developer, API integration and database & Nisha Sarvaiya: Backend Engineer, Agent workflow and testing.
+
 I. Executive Summary
 TruthSense is engineered as a robust, agentic AI platform designed to mitigate the rapid proliferation of misinformation across digital channels. Leveraging the power of Google's foundational models (Gemini API) and Search Grounding, the system establishes a new standard for real-time veracity validation. It does not merely detect keywords; it executes a multi-step verification workflow to deliver transparent, credible, and contextually grounded fact-check reports.
+
 II. System Architecture & Core Innovation
 Our core innovation lies in the three-stage Agentic Workflow and the use of Structured JSON Output enforced by the Gemini API.
 A. Core Agentic Workflow
