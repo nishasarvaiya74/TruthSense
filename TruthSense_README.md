@@ -28,6 +28,7 @@ B. Unique Technical Features
 Strict Structured Output: We mandate a JSON schema for the AI's final report (verdict, confidence, actionableSteps). This ensures predictable, robust parsing and prevents the common failure mode of unformatted LLM text.
 Robust Error Handling: The application includes advanced, self-reporting error states to immediately diagnose API failure modes, network issues, and JSON parsing errors, demonstrating high code maturity.
 Scalability Architecture: The system is explicitly decoupled, ready for integration with dedicated Firebase/MongoDB for multi-user history and persistent state management, as indicated by the built-in user authentication placeholders.
+
 III. Technology Stack & Implementation
 Layer
 Primary Tool
